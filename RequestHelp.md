@@ -44,10 +44,8 @@ Relax, you can also [Click here](https://discord.com/channels/130372627867055315
 
   
 
-| day/month | Problem title |
-
+| day/month |Problem Title  |
 |--|--|
-
 | I'm facing the problem of ....... | Reference image |
 
   
